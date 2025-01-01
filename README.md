@@ -8,7 +8,7 @@
   <br>
   ▸ 📚 I’m currently learning how to build User Model using React and Firebase.
   <br>
-  ▸ 📄 Check out my resume using: <a href="[https://drive.google.com/file/d/1rU294pHHAzxN2bwaai26kQghLuq-tiGt/view?usp=drive_link](https://drive.google.com/drive/u/0/home)" title="Resume">This Link</a>
+  ▸ 📄 Check out my resume using: <a href="https://drive.google.com/file/d/1rU294pHHAzxN2bwaai26kQghLuq-tiGt/view?usp=drive_link" title="Resume">This Link</a>
   <br>
   ▸ 💬 Ask me anything about from: <a href="" title="Issues">Here</a>
   <br>
