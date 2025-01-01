@@ -12,7 +12,7 @@
   <br>
   ▸ 💬 Ask me anything about from: <a href="" title="Issues">Here</a>
   <br>
-  ▸ 📫 How to reach me: <a href="mailto: archityadav0007@gmail.com">depikag21@gmail.com</a>
+  ▸ 📫 How to reach me: <a href="mailto: archityadav0007@gmail.com">archityadav0007@gmail.com</a>
 </p>
 
 <hr>
