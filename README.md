@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  ▸ 🎓 I'm currently studying B.Tech Electronics and Communication at AKTU, Lucknow. 
+  ▸ 🎓 I'm currently studying B.Tech Electronics and Communication at PSIT, Kanpur. 
   <br>
   ▸ 💻 I love writing code and learn anything about it.
   <br>
