@@ -46,7 +46,6 @@ const architYadav = {
 
     currently: {
         studying: "B.Tech ECE @ PSIT, Kanpur",
-        interning: "Extion Infotech",
         learning: "Deep Learning, YOLO, XAI"
     },
 
