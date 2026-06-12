@@ -1,21 +1,20 @@
-<h3 align="center">Hi, I'm Archit Yadav, Web Developer & Pen Tester & Software Developer from India.</h3>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ARCHIT%20YADAV&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=28&desc=Web%20Developer%20%7C%20Pen%20Tester%20%7C%20AI%20Engineer&descSize=22&descAlignY=51&descAlign=50"/>
 
-<br>
-<p align="center">
-  ▸ 🎓 I'm currently studying B.Tech Electronics and Communication at PSIT, Kanpur. 
-  <br>
-  ▸ 💻 I love writing code and learn anything about it.
-  <br>
-  ▸ 📚 I'm currently intern at Extion Infotech.
-  <br>
-  ▸ 📄 Check out my resume using: <a href="https://drive.google.com/file/d/1OXK8jygHbe8Q-AfsRPys-aeI5cnr2S2b/view?usp=sharing" title="Resume">This Link</a>
-  <br>
-  ▸ 💬 Ask me anything about from: <a href="" title="Issues">Here</a>
-  <br>
-  ▸ 📫 How to reach me: <a href="mailto: archityadav0007@gmail.com">archityadav0007@gmail.com</a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=Full-Stack+Developer+%26+Pen+Tester;Builder+of+Intelligent+AI+Systems;Engineer+of+Real-Time+Platforms" />
 
-<hr>
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://archityadav.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArchitYadav07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archityadav0007)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archityadav0007@gmail.com)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+---
 
 <div align="center">
 
