@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArchitYadav07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archityadav0007)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archityadav0007@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=ArchitYadav07&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/ArchitYadav07?style=for-the-badge&color=8b5cf6&labelColor=0D1117&label=FOLLOWERS&logo=github&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
