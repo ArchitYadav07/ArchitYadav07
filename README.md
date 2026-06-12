@@ -22,6 +22,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> ELITE SKILL MATRIX
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /> Core Engineering
+
 <table>
 <tr>
 <td align="center" width="20%">
@@ -48,6 +49,7 @@
 </table>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" /> Backend Architecture & APIs
+
 <table>
 <tr>
 <td align="center" width="16.66%">
@@ -77,6 +79,75 @@
 </tr>
 </table>
 
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25" /> Databases & Real-Time Systems
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="65" height="65" />
+<br><b>PostgreSQL</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="65" height="65" alt="Redis" />
+<br><b>Redis</b>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="65" height="65" alt="Prisma" />
+<br><b>Prisma ORM</b>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" height="65" alt="WebSockets" />
+<br><b>WebSockets</b>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="65" height="65" alt="BullMQ" />
+<br><b>Bull/BullMQ</b>
+</td>
+</tr>
+</table>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="25" /> Frontend & Design Systems
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><b>React</b>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="65" height="65" alt="Tailwind" />
+<br><b>Tailwind CSS</b>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="65" height="65" alt="Monaco" />
+<br><b>Monaco Editor</b>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="65" height="65" alt="Design" />
+<br><b>UI/UX Design</b>
+</td>
+</tr>
+</table>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ship.png" width="25" /> DevOps & Infrastructure
+
+<table>
+<tr>
+<td align="center" width="33.33%">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br><b>Docker</b>
+</td>
+<td align="center" width="33.33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="65" height="65" alt="Microservices" />
+<br><b>Microservices</b>
+</td>
+<td align="center" width="33.33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="65" height="65" alt="Security" />
+<br><b>API Security</b>
+</td>
+</tr>
+</table>
+
 </div>
 
 <hr>
@@ -100,6 +171,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArchitYadav07/ArchitYadav07/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ArchitYadav07/ArchitYadav07/output/github-snake.svg" />
 </picture>
+
+---
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&lines=%E2%9A%A1+Architecting+systems+that+scale+%7C+Building+products+that+ship+%7C+Engineering+experiences+that+matter+%E2%9A%A1" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=ArchitYadav07&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 <h4 align="center">
   <a href="https://github.com/ArchitYadav07?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
