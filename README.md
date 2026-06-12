@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ARCHIT%20YADAV&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=28&desc=Web%20Developer%20%7C%20Pen%20Tester%20%7C%20AI%20Engineer&descSize=22&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ARCHIT%20YADAV&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=28&desc=Artificial%20Intelligence%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Robotics%20Engineer&descSize=18&descAlignY=51&descAlign=50"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=Full-Stack+Developer+%26+Pen+Tester;Builder+of+Intelligent+AI+Systems;Engineer+of+Real-Time+Platforms" />
 
