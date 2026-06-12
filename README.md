@@ -20,6 +20,46 @@
 
 <div align="center">
 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" /> WHO I AM
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```typescript
+const architYadav = {
+    name: "Archit Yadav",
+    role: "AI Engineer | Full-Stack Developer | Robotics Engineer",
+
+    expertise: {
+        core: "Artificial Intelligence & Machine Learning",
+        specialty: "Real-Time Systems & Scalable Platforms",
+        focus: "Computer Vision + Explainable AI"
+    },
+
+    building: [
+        "🤖 Intelligent AI & ML systems",
+        "🌐 Full-stack web applications",
+        "🦾 Robotics & automation projects",
+        "🔐 Secure pen-tested architectures"
+    ],
+
+    currently: {
+        studying: "B.Tech ECE @ PSIT, Kanpur",
+        interning: "Extion Infotech",
+        learning: "Deep Learning, YOLO, XAI"
+    },
+
+    philosophy: "Build smart. Ship fast. Never stop learning."
+};
+```
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> ELITE SKILL MATRIX
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="25" /> Programming Languages
@@ -302,6 +342,7 @@ Real-Time Systems • Scalable Architectures • Code Execution Platforms • En
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&lines=%E2%9A%A1+Architecting+systems+that+scale+%7C+Building+products+that+ship+%7C+Engineering+experiences+that+matter+%E2%9A%A1" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=ArchitYadav07&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
