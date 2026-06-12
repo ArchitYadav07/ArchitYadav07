@@ -341,7 +341,6 @@ Real-Time Systems • Scalable Architectures • Code Execution Platforms • En
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&lines=%E2%9A%A1+Architecting+systems+that+scale+%7C+Building+products+that+ship+%7C+Engineering+experiences+that+matter+%E2%9A%A1" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ArchitYadav07&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
