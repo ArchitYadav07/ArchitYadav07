@@ -21,59 +21,98 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> ELITE SKILL MATRIX
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /> Core Engineering
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="25" /> Programming Languages
 
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-<br><b>TypeScript</b>
-</td>
-<td align="center" width="20%">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
 <br><b>Python</b>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="C" />
+<br><b>C</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
+<br><b>C++</b>
+</td>
+<td align="center" width="16.66%">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
 <br><b>Java</b>
 </td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65" />
-<br><b>System Design</b>
+<td align="center" width="16.66%">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br><b>TypeScript</b>
 </td>
 </tr>
 </table>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" /> Backend Architecture & APIs
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="25" /> Frontend & Web Technologies
 
 <table>
 <tr>
 <td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML" />
+<br><b>HTML</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS" />
+<br><b>CSS</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><b>React</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="65" height="65" alt="Tailwind" />
+<br><b>Tailwind CSS</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="65" height="65" alt="Monaco" />
+<br><b>Monaco Editor</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="65" height="65" alt="Design" />
+<br><b>UI/UX Design</b>
+</td>
+</tr>
+</table>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" /> Backend, Frameworks & APIs
+
+<table>
+<tr>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
 <br><b>Node.js</b>
 </td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" alt="NestJS" />
 <br><b>NestJS</b>
 </td>
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
 <br><b>Express</b>
 </td>
-<td align="center" width="16.66%">
-<img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="48" height="48" alt="REST API" />
+<td align="center" width="14.28%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="65" height="65" alt="Django" />
+<br><b>Django</b>
+</td>
+<td align="center" width="14.28%">
+<img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="65" height="65" alt="REST API" />
 <br><b>REST API</b>
 </td>
-<td align="center" width="16.66%">
-<img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" width="48" height="48" alt="JWT" />
+<td align="center" width="14.28%">
+<img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" width="65" height="65" alt="JWT" />
 <br><b>JWT Auth</b>
 </td>
-<td align="center" width="16.66%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="48" height="48" alt="OAuth" />
+<td align="center" width="14.28%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="65" height="65" alt="OAuth" />
 <br><b>OAuth 2.0</b>
 </td>
 </tr>
@@ -83,48 +122,29 @@
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
+<br><b>MySQL</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" />
+<br><b>MongoDB</b>
+</td>
+<td align="center" width="16.66%">
 <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="65" height="65" />
 <br><b>PostgreSQL</b>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="65" height="65" alt="Redis" />
 <br><b>Redis</b>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="65" height="65" alt="Prisma" />
-<br><b>Prisma ORM</b>
-</td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" height="65" alt="WebSockets" />
 <br><b>WebSockets</b>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="65" height="65" alt="BullMQ" />
 <br><b>Bull/BullMQ</b>
-</td>
-</tr>
-</table>
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="25" /> Frontend & Design Systems
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<br><b>React</b>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="65" height="65" alt="Tailwind" />
-<br><b>Tailwind CSS</b>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="65" height="65" alt="Monaco" />
-<br><b>Monaco Editor</b>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="65" height="65" alt="Design" />
-<br><b>UI/UX Design</b>
 </td>
 </tr>
 </table>
@@ -133,164 +153,62 @@
 
 <table>
 <tr>
-<td align="center" width="33.33%">
+<td align="center" width="20%">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
 <br><b>Docker</b>
 </td>
-<td align="center" width="33.33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="65" height="65" alt="Microservices" />
-<br><b>Microservices</b>
-</td>
-<td align="center" width="33.33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="65" height="65" alt="Security" />
-<br><b>API Security</b>
-</td>
-</tr>
-</table>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="25" /> Programming Languages
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<br><b>Python</b>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="C" />
-<br><b>C</b>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
-<br><b>C++</b>
-</td>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-<br><b>Java</b>
-</td>
-</tr>
-</table>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="25" /> Web Technologies
-
-<table>
-<tr>
 <td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML" />
-<br><b>HTML</b>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS" />
-<br><b>CSS</b>
-</td>
-<td align="center" width="20%">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="20%">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<br><b>React</b>
-</td>
-</tr>
-</table>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="25" /> Databases & Tools
-
-<table>
-<tr>
-<td align="center" width="33.33%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
-<br><b>MySQL</b>
-</td>
-<td align="center" width="33.33%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" />
-<br><b>MongoDB</b>
-</td>
-<td align="center" width="33.33%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
 <br><b>Git</b>
 </td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="65" height="65" alt="Microservices" />
+<br><b>Microservices</b>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="65" height="65" alt="Security" />
+<br><b>API Security</b>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="65" height="65" alt="Prisma" />
+<br><b>Prisma ORM</b>
+</td>
 </tr>
 </table>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" /> Frameworks & Libraries
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="25" /> AI, ML & Data Science
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="65" height="65" alt="TensorFlow" />
 <br><b>TensorFlow</b>
 </td>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="65" height="65" alt="PyTorch" />
 <br><b>PyTorch</b>
 </td>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="65" height="65" alt="OpenCV" />
 <br><b>OpenCV</b>
 </td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="65" height="65" alt="Django" />
-<br><b>Django</b>
-</td>
-</tr>
-</table>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="25" /> Core Concepts
-
-<table>
-<tr>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" width="65" height="65" alt="DSA" />
-<br><b>Data Structures & Algorithms</b>
+<br><b>DSA</b>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="65" height="65" alt="ML" />
-<br><b>Machine Learning</b>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65" alt="DL" />
-<br><b>Deep Learning</b>
-</td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eye.png" width="65" height="65" alt="YOLO" />
-<br><b>YOLO Object Detection</b>
+<br><b>YOLO Detection</b>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="65" height="65" alt="XAI" />
-<br><b>Explainable AI (XAI)</b>
-</td>
-</tr>
-</table>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="25" /> Soft Skills
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" width="65" height="65" alt="Teamwork" />
-<br><b>Teamwork</b>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" width="65" height="65" alt="Problem Solving" />
-<br><b>Problem Solving</b>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="65" height="65" alt="Creativity" />
-<br><b>Creativity</b>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" width="65" height="65" alt="Adaptability" />
-<br><b>Adaptability</b>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="65" height="65" alt="Communication" />
-<br><b>Communication</b>
+<br><b>Explainable AI</b>
 </td>
 </tr>
 </table>
 
 </div>
+
 
 <hr>
 
