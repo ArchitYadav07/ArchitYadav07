@@ -232,8 +232,72 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/ArchitYadav07/ArchitYadav07/output/github-snake.svg" />
 </picture>
 
----
+
+<hr>
+
 <div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="35" /> ENGINEERING PHILOSOPHY
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
+<br/>
+
+### *"Architecture is not about perfection—it's about making intelligent tradeoffs."*
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" width="50" />
+<br/><b>Production First</b><br/>
+<i>Ship features that scale<br/>from day one—test in<br/>production responsibly</i>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnet.png" width="50" />
+<br/><b>Developer Experience</b><br/>
+<i>Great products start<br/>with great APIs—build<br/>tools developers love</i>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="50" />
+<br/><b>Performance Culture</b><br/>
+<i>Every millisecond matters—<br/>optimize ruthlessly, measure<br/>everything, cache wisely</i>
+</td>
+</tr>
+</table>
+
+<br/>
+
+**Core Values:** System Thinking • Scalable Architecture • Security-First Design • Real-Time Infrastructure
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Phone" width="35" /> LET'S BUILD TOGETHER
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
+
+<br/>
+
+**Looking to collaborate on:**
+Real-Time Systems • Scalable Architectures • Code Execution Platforms • Enterprise Solutions
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Archit%20Yadav-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://archityadav.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-archityadav0007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archityadav0007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archityadav0007)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArchitYadav07)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&lines=%E2%9A%A1+Architecting+systems+that+scale+%7C+Building+products+that+ship+%7C+Engineering+experiences+that+matter+%E2%9A%A1" />
 
